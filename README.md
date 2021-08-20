@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SajioDude
 - 👀 I’m interested in python,Ethical hacking
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and embedded programming
 - 💞️ I’m looking to collaborate on beginner python projects
-- 📫 How to reach me mail me at insajio73@gmail.com
+- 📫 How to reach me mail me at sajiocs007@gmail.com
