@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SajioDude
+- 👋 Hi, I’m @Sajio
 - 👀 I’m interested in python,Ethical hacking
 - 🌱 I’m currently learning Javascript and embedded programming
 - 💞️ I’m looking to collaborate on beginner python projects
